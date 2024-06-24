@@ -15,8 +15,8 @@
             "sourceMaps": true,
             "env": {
                 "NODE_ENV": "local",
-                "IotHubConnectionString": "",
-                "EventHubConsumerGroup": "monitoring"
+                "IotHubConnectionString": "HostName=Hub-IoT-grancolombiano.azure-devices.net;DeviceId=Raspberry_pi;SharedAccessKey=KhzHJpF+659aZ1YvqLilXFWZDGDS0okjRNSBy0EJDmI=",
+                "EventHubConsumerGroup": "hub-iot-grancolombiano"
             }
         }
     ]
